@@ -24,6 +24,9 @@ end
   end 
   
   def sort 
-    student.sort
+    @roster.each.value do |student|
+      student.sort!
+    end 
+  end 
   
 end 
