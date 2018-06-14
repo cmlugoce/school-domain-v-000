@@ -23,4 +23,7 @@ end
    @roster[grade] 
   end 
   
+  def sort 
+    student.sort
+  
 end 
