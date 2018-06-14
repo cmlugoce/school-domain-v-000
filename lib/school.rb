@@ -20,7 +20,7 @@ end
  end 
  
  def grade(grade)
-   return name 
+   @roster[grade] 
   end 
   
 end 
