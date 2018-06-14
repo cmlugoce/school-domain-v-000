@@ -8,3 +8,4 @@ def add_student(name, grade)
    return name 
   end 
   
+end 
